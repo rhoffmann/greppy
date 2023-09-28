@@ -1,3 +1,7 @@
+//! # greppy
+//!
+//! `greppy` is a small command line experiment to search for occurences in a file (similar to grep)
+//!
 use std::{env, error::Error, fs};
 
 pub struct Config {
