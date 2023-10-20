@@ -57,7 +57,7 @@ pub fn run(config: Config) -> Result<(), Box<dyn Error>> {
     Ok(())
 }
 
-/// case sensitive search for the occurence of query in a text
+/// case sensitive search for the occurence of a query in a text
 ///
 /// # Examples
 /// ```
